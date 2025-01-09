@@ -6,3 +6,4 @@
 * [第三章](di-san-zhang.md)
 * [第四章](di-si-zhang.md)
 * [第五章](di-wu-zhang.md)
+* [第六章](di-liu-zhang.md)
